@@ -1,0 +1,39 @@
+build dynamic and interactive web applications Todos Application
+todo applications: 
+
+1.HTML Input Element :-Checkbox
+2.HTML Label Element :-label 
+3. HTML for Attribute :- for
+4.DOM Manipulations:  The htmlFor Property :-We can use htmlFor property to add HTML for attribute to the HTML label element.
+  The setAttribute() Method :- We can use setAttribute() method to set any HTML attribute name and its corresponding value. 
+       If the attribute already exists, the value is updated
+5.HTML Input Element :- Placeholder---Placeholder is the text that appears in the HTML input element
+6.JavaScript Built-in Functions :- alert()--alert() function displays an alert box with a specified message and an OK button.
+7.DOM Properties:-Checked --The checked property sets or returns the checked status of an HTML checkbox input element as a boolean value.
+8.DOM Manipulations:- The removeChild() Method --removeChild() method removes an HTML child element  
+9.The classList.toggle() Method :- used to toggle between adding and removing a class name from an HTML element.
+10.We can replace classList.add() and classList.remove() methods with classList.toggle() method.
+11.Execution Context:-The environment in which JavaScript Code runs is called Execution Context.
+   Execution context contains all the variables, objects, and functions.
+   Execution Context is destroyed and recreated whenever we reload an Application.
+12.Storage Mechanisms :-
+Client-Side Data Storage( Local Storage ,Session Storage,Cookies ,IndexedDB )Client-Side Data Storage is storing the data on the client (user's machine).
+Server-Side Data Storage :Server-Side Data Storage is storing the data on the server.
+13.Local Storage :-It allows web applications to store data locally within the user's browser.
+It is a Storage Object. Data can be stored in the form of key-value pairs(setItem(),getItem(),clear(),removeItem())
+14.The setItem() Method:- can be used for storing data in the Local Storage.
+15.The getItem() Method:-can be used for getting data from the Local Storage.
+16.Values:- null:-We use null in a situation where we intentionally want a variable but don't need a value to it.
+17.JavaScript Object Notation (JSON) :JSON is a data representation format used for:Storing data (Client/Server) Exchanging data between Client and Server 
+18.JSON Methods:-
+   JSON.stringify() :-It converts the given value into JSON string.Syntax: JSON.stringify( value )
+   JSON.parse():- It parses a JSON string and returns a JS object. Syntax: JSON.parse( string )
+19. Array Methods: splice():-(Remove existing items Replace, existing items,Add new items)
+20.findIndex() method : returns the first item's index that satisfies the provided testing function. If no item is found, it returns -1
+21.Local Storage:-The removeItem() Method:-removes the specified storage object item based on the key.Syntax: localStorage.removeItem(key)
+22.
+
+
+
+
+
